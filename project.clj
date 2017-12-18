@@ -1,6 +1,7 @@
-(defproject yokai "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
-  :license {:name "Eclipse Public License"
-            :url "http://www.eclipse.org/legal/epl-v10.html"}
+(defproject codamic/yokai "0.1.0-SNAPSHOT"
+  :description "Spec like documentation for Clojure/ClojureScript"
+  :license     {"mit"
+                "https://opensource.org/licenses/MIT"}
+  :url         "https://github.com/Codamic/yokai"
+  :scm         {:url "https://github.com/Codamic/yokai"}
   :eval-in-leiningen true)
